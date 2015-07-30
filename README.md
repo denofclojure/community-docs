@@ -1,6 +1,6 @@
 # Community Docs
 
-[See them here](http://denofclojure.github.com/community-docs/).
+[See them here](http://denofclojure.github.io/community-docs/).
 
 That's right, docs for and by the community.
 
