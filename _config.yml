@@ -1,13 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       "Den of Clojure: Community Docs"
+email:       denofclojure
+author:      Den of Clojure
+description: "Den of Clojure: Community Docs"
+baseurl:     "/community-docs"
+url:         "http://denofclojure.github.io"
 
 # Google analytics
-google_analytics: UA-53548208-1
+google_analytics: false
 
 # Optional features
 animated:           false
