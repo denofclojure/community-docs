@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Getting Help
+permalink: /getting-help/
 description: "How to find people to help you [PARTIAL]"
 categories: [beginner]
 ---
