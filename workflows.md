@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clojure workflows
-description: Writing Clojure code in practice
+description: "Writing Clojure code in practice [STUB]"
 categories: [intermediate]
 ---
 

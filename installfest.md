@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installfest
-description: No-fuss Clojure setup guide
+description: "No-fuss Clojure setup guide [STUB]"
 categories: [beginner, emacs]
 ---
 

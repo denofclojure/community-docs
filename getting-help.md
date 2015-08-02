@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Help
-description: "How to find people to help you"
+description: "How to find people to help you [PARTIAL]"
 categories: [beginner]
 ---
 
